@@ -21,6 +21,7 @@ public class Day14_HomeWork {
 
         driver.close();
         // this the homework for selenium class and due tommorrow
+        // idk what to do . to start or no lol
         
 
 //        1. Navigate to https://orbitz.com
