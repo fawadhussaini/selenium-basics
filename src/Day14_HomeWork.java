@@ -20,6 +20,8 @@ public class Day14_HomeWork {
         driver.get("http://automation.techleadacademy.io/#/synchronization");
 
         driver.close();
+        // this the homework for selenium class and due tommorrow
+        
 
 //        1. Navigate to https://orbitz.com
 //        2. By default "Hotel" is already selected
