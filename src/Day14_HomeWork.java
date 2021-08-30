@@ -20,7 +20,8 @@ public class Day14_HomeWork {
         driver.get("http://automation.techleadacademy.io/#/synchronization");
 
         driver.close();
-
+ // i do this from git hub
+        
         
 
         
